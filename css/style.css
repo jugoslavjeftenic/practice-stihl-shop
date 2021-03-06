@@ -67,4 +67,15 @@ header a:hover {
 .categories {
     background-color: #ff6600;
     color: #fff;
+    padding: 2rem 0.5rem;
+    text-align: center;
+}
+
+.columns {
+    max-width: 800px;
+    display: flex;
+}
+
+.column {
+    margin: 0 10px;
 }
