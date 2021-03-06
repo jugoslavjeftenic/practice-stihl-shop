@@ -1,1 +1,3 @@
-# practice-stihl-shop
+# Izmišljena STIHL prodavnica
+
+Vežba HTML/CSS/JS
